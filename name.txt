@@ -1,2 +1,4 @@
 name;akhil
 ag;38
+wife :amrutha
+daughter : anahita
